@@ -1,6 +1,5 @@
 # Sales-Analysis-in-Power-BI
-![Maven Toy store image](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/40e421b6-3267-4dde-b293-1ac49112219d)
-
+![Maven Toy store image jpg 2](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/925e7593-4a94-4521-94ac-2d40658f185c)
 
 ## Background
 
