@@ -1,4 +1,4 @@
-# Maven Toys Sales-Analysis-in-Power-BI
+# Maven Toys - Sales-Analysis in Power BI
 ![Maven Toy store image jpg 2](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/925e7593-4a94-4521-94ac-2d40658f185c)
 
 ## Background
