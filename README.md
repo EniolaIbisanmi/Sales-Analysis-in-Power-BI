@@ -117,19 +117,19 @@ One of the top product categories, Electronics, suffers a -27% growth due to its
 
 #### Revenue Loss
 
-The inventory analysis reveals that stores with the highest revenues are experiencing shortages of key products, impacting sales. For example, at Maven Toys Ciudad de Mexico 2, Lego Bricks have insufficient inventory to meet daily demand, despite averaging 16.43 units in sales per day with only two units in stock. Similarly, the two leading revenue-generating stores at the Airport, which sell Lego Bricks and ColourBuds, struggle to meet daily demand. In Maven Toys Guadalajara 3, both Lego Bricks and ColourBuds have inadequate stock levels to accommodate their respective average daily sales of 14.63 and 21.43 units, with less than a day's worth of inventory available. Consequently, many of the top 10 revenue-generating products are experiencing shortages in these key stores, resulting in revenue loss for Maven Toys. Failure to meet average daily demand directly correlates with revenue losses.
-
 ![Revenue loss due to out-of-stock](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/5b007c1d-864f-4306-beec-e5e1897c32b2)
 
 Revenue loss out-of-stock
 
+The inventory analysis reveals that stores with the highest revenues are experiencing shortages of key products, impacting sales. For example, at Maven Toys Ciudad de Mexico 2, Lego Bricks have insufficient inventory to meet daily demand, despite averaging 16.43 units in sales per day with only two units in stock. Similarly, the two leading revenue-generating stores at the Airport, which sell Lego Bricks and ColourBuds, struggle to meet daily demand. In Maven Toys Guadalajara 3, both Lego Bricks and ColourBuds have inadequate stock levels to accommodate their respective average daily sales of 14.63 and 21.43 units, with less than a day's worth of inventory available. Consequently, many of the top 10 revenue-generating products are experiencing shortages in these key stores, resulting in revenue loss for Maven Toys. Failure to meet average daily demand directly correlates with revenue losses.
+
 #### Cost Tied to Inventory
-
-The analysis reveals insufficient stock levels to meet average daily sales. A total of 51,932 units are needed to fulfill daily demand, yet there are only 29,742 units currently available across all stores. Despite this, these stocks are projected to generate $410,240 in sales. By augmenting existing stock levels at the stores, it would be possible to achieve the target average daily sales.
-
 ![Revenue tied to invetory](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/67da5445-16f1-47f1-b1fe-0a432fbb13fc)
 
 Revenue tied to inventory
+
+The analysis reveals insufficient stock levels to meet average daily sales. A total of 51,932 units are needed to fulfill daily demand, yet there are only 29,742 units currently available across all stores. Despite this, these stocks are projected to generate $410,240 in sales. By augmenting existing stock levels at the stores, it would be possible to achieve the target average daily sales.
+
 
 ## Recommendation
 Maven Toy Store should seek ways to reduce the cost of producing the top products (ColourBuds, Lego Bricks, and Action Figure) to increase their profit margins. This would help save more which is good for business. 
