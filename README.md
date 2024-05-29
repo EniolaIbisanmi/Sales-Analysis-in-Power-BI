@@ -3,11 +3,11 @@
 
 ## Background
 
-I recently completed a 3-month data analytics training with Scenario Academy, where I learned new data analytics skills. To put these new skills into practice, I was assigned a Capstone project on sales analysis using Power BI. I analyzed patterns and trends in a Maven Toy Store dataset to help make informed decisions. Maven Toy Store is a key player in the retail sector, offering a diverse range of quality products. My role was to act as a business data analyst, finding answers to business questions to enable stakeholders to make data-driven decisions. This document shares my data analysis procedures and insights.
+I recently completed a 3-month data analytics training program at Scenario Academy, where I acquired new data analytics skills. To apply these skills, I worked on a Capstone project focused on sales analysis using Power BI. I analyzed patterns and trends in a dataset from Maven Toy Store, a prominent retailer known for its diverse range of quality products. As a business data analyst, my role was to answer key business questions to support stakeholders in making data-driven decisions. This document outlines my data analysis procedures and insights.
 
 ## Business Objectives
 
-The stakeholders' major objective is to drive business growth with insights derived from their business data. Hence, a comprehensive analysis is necessary to answer these business questions:
+The primary goal of the stakeholders is to drive business growth using insights derived from their business data. Therefore, a comprehensive analysis is essential to address these business questions:
 1. The top-performing products and their categories.
 2. Comparison between the highest selling product and the highest profit margin product.
 3. The sales trend and patterns throughout the year.
@@ -129,6 +129,25 @@ Revenue tied to inventory
 
 The analysis reveals insufficient stock levels to meet average daily sales. A total of 51,932 units are needed to fulfill daily demand, yet there are only 29,742 units currently available across all stores. Despite this, these stocks are projected to generate $410,240 in sales. By augmenting existing stock levels at the stores, it would be possible to achieve the target average daily sales.
 
+## Data Visualization 
+
+This is the 3 page report for the analysis. The interactive dashboard can be found here.
+
+![Home navigation](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/ca56775f-02a7-4834-b2cf-d29a4edf21e2)
+
+Home navigation
+
+![Product report](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/c593e0eb-601e-4272-a3aa-c2e89e6480f8)
+
+Poduct report
+
+![Store report](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/1e4abfb0-87bf-4a70-8f7e-d0b71ec06675)
+
+Store report
+
+![Trend report](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/3e152c27-e0af-41e4-9333-0a7bc43ea23b)
+
+Trend report
 
 ## Recommendation
 Maven Toy Store should seek ways to reduce the cost of producing the top products (ColourBuds, Lego Bricks, and Action Figure) to increase their profit margins. This would help save more which is good for business. 
