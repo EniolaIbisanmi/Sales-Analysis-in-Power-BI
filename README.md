@@ -99,7 +99,7 @@ Highest Profit margin vs Highest Selling Product
 The monthly sales data reflect similar seasonal patterns in 2017 and 2018, with a gradual increase in January, peaking in March and April, then a downward slope until August. The decrease in sales coincides with the summer season when there are more outdoor activities. Sales began to rise again after August in both years. The year-to-date sales data for 2018 stops at September, but it is evident in 2017 that sales continued to rise until December, the highest sales month, coinciding with the festive period.
 In 2018, there is a decrease in monthly sales for two months to $722,632 in February, followed by a significant increase in March to $883,515. For the next six months of 2018, the sales data follow a similar trend to that of 2017, remaining relatively constant from April to June and then decreasing from July to September.
 
-###### Overall Profit and Revenue - Comparisons for the Same Period
+#### Overall Profit and Revenue - Comparisons for the Same Period
 
 Despite showing similar trends across different periods of the year, the profit and revenue comparisons within the same period for both years show a significant difference. The units sold, profit, and revenue report a significant difference between these years.
 
