@@ -110,7 +110,6 @@ Monthly revenue trend
 Cumulative sales for September 2018 ($6,962,074) are higher than for September 2017 ($5,320,116). Considering the entire 2017 sales ($7,482,498), 2018 sales from October to December are projected to surpass those of 2017. The number of units sold also follows the same pattern. The total units sold from January to September in 2018 has already surpassed the total units sold for the entire year in 2017. The year-on-year growth percentage (30.9%) between the two years measures the significant increase in sales, vividly illustrating the overall year-on-year growth.
 
 #### Year-on-Year Growth
-![Year-on-Year Growth DAX code](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/0cc953d5-9310-48ba-a10d-7140ce8c8ddb)
 
 One of the top product categories, Electronics, suffers a -27% growth due to its 17.9% contribution to sales at the end of September 2018. The Toy category maintains a growth rate of 25.7% over the years, while the Arts and Crafts category tops the chart with a 26.3% growth increase. Maven Toys has been able to maintain profit due to the Arts and Crafts category. Monthly revenue grew from $35,097 in 2017 to $187,230 at the end of September 2018.
 
