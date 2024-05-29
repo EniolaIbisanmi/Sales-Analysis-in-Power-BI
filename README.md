@@ -131,7 +131,7 @@ The analysis reveals insufficient stock levels to meet average daily sales. A to
 
 ## Data Visualization 
 
-This is the 3 page report for the analysis. The interactive dashboard can be found here.
+This is the 3-page report for the analysis. The interactive dashboard can be found here.
 
 ![Home navigation](https://github.com/EniolaIbisanmi/Sales-Analysis-in-Power-BI/assets/130236779/ca56775f-02a7-4834-b2cf-d29a4edf21e2)
 
